@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="941b708a-37ef-453f-b689-e777ed929bdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coureurs_BDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course - Copie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lescoureurs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/Categorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/ConnectionDeBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/Coureur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/GestionDesCoureurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/Ihm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btsciel/clavier/In.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2amLf9QmKRzybE92HedcuOXOmSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ihm.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JavaProjects/Coureurs_BDD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\Coureurs_BDD" />
+      <recent name="D:\JavaProjects\Coureurs_BDD\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="941b708a-37ef-453f-b689-e777ed929bdb" name="Changes" comment="" />
+      <created>1704918910108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704918910108</updated>
+      <workItem from="1704918911204" duration="5104000" />
+      <workItem from="1704924489570" duration="1333000" />
+      <workItem from="1704926033017" duration="227000" />
+      <workItem from="1704926269457" duration="1315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
